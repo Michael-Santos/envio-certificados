@@ -13,4 +13,4 @@
 
 ----------
 
-Em 2017, na IX edição da [SeCoT](http://secot.com.br/), foi utilizado o [Sparkpost](sparkpost.com) como serviço provedor de SMTP para envio dos certificados/QR-Codes.
+Em 2017, na IX edição da [SeCoT](http://secot.com.br/), foi utilizado o [Sparkpost](//sparkpost.com) como serviço provedor de SMTP para envio dos certificados/QR-Codes.
